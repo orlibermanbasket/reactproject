@@ -1,0 +1,68 @@
+{
+  "cards": [
+    {
+      "buisnessName": "Mackdonalds",
+      "buisnessDescription": "מקדונלד'ס (באנגלית: McDonald's) היא רשת מסעדות מזון מהיר אמריקאית רב-לאומית, ואחת מרשתות המזון המהיר הגדולות בעולם, כולל בישראל. מזוהה במיוחד עם המנה העיקרית שהיא מגישה: המבורגר - כריך לחמנייה עגולה ובה קציצת בשר בקר טחון העשויה בגריל.",
+      "buisnessAdress": "צומת ביג קריית אתא",
+      "buisnessPhone": 6888888888,
+      "buisnessImage": "https://th.bing.com/th/id/OIP.s9Ks-KssBKPiHrh8Isi4bAHaEa?pid=ImgDet&rs=1",
+      "userId": 3,
+      "id": 1
+    },
+    {
+      "buisnessName": "Pizza Hut",
+      "buisnessDescription": "פיצה האט, רשת הפיצריות הגדולה בישראל עם 100 סניפים בפריסה ארצית (מתוכם 80 סניפי פיצה כשרים). היכנסו עכשיו לאתר והזמינו את הפיצה שאתם אוהבים",
+      "buisnessAdress": "long Island, New York",
+      "buisnessPhone": 483378920,
+      "buisnessImage": "https://images1.ynet.co.il/PicServer5/2017/11/21/8166727/PizzaHut_17-1.jpg",
+      "userId": 3,
+      "id": 2
+    },
+    {
+      "buisnessName": "Subway",
+      "buisnessDescription": "The Subway® menu offers a wide range of sub sandwiches, salads and breakfast ideas for every taste.",
+      "buisnessAdress": "katanlson 2",
+      "buisnessPhone": 487375921,
+      "buisnessImage": "https://th.bing.com/th/id/R.63c4bb34e9b89645766046ddc9e11b69?rik=K57ZT2QsLeIY1g&pid=ImgRaw&r=0",
+      "userId": 3,
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "or liberman",
+      "email": "tur6380@gmail.com",
+      "password": "12345678",
+      "isBuisness": false,
+      "id": 2
+    },
+    {
+      "name": "lord of rings",
+      "email": "harel@gmail.com",
+      "password": "12345678",
+      "isBuisness": true,
+      "id": 3
+    },
+    {
+      "name": "Harry potter 2",
+      "email": "harry@gmail.com",
+      "password": "12345678",
+      "isBuisness": true,
+      "id": 5
+    },
+    {
+      "name": "or liberman",
+      "email": "tur6380@gmail.com",
+      "password": "12345678",
+      "isBuisness": true,
+      "id": 6
+    },
+    {
+      "name": "or liberman",
+      "email": "ornew@gmail.com",
+      "password": "12345678",
+      "isBuisness": true,
+      "id": 7
+    }
+  ]
+}
